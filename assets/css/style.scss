@@ -16,12 +16,12 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
   background-color: #306;
 }
 
-#sidebar a {
+#sidebar a.nav-link {
   color: #fff;
 }
 
 #sidebar > div.profile-wrapper.text-center > div.site-title.mt-3 > a {
-  color: #fff;
+  color: #fff !important;
 }
 
 #sidebar > div.profile-wrapper.text-center > div.site-subtitle.font-italic {
