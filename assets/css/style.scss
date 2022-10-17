@@ -10,3 +10,35 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
 @import "{{ site.theme }}";
 
 /* append your custom style below */
+
+/* START CUSTOM CSS */
+#sidebar {
+  background-color: #306;
+}
+
+#sidebar a {
+  color: #fff;
+}
+
+#sidebar > div.profile-wrapper.text-center > div.site-title.mt-3 > a {
+  color: #fff;
+}
+
+#sidebar > div.profile-wrapper.text-center > div.site-subtitle.font-italic {
+  color: #fff;
+}
+
+#sidebar .nav-item.active .nav-link {
+  color: #fd7e14 !important;
+}
+
+#sidebar .nav-item:hover .nav-link {
+  color: #b366ff !important;
+}
+
+.cot-form {
+  border: 5px solid red;
+  padding: 1em;
+  margin: 1em;
+}
+/* END CUSTOM CSS */
