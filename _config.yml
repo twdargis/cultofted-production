@@ -44,7 +44,7 @@ social:
   email: info@twdargis.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://cultofted.substack.com/
+    # # # - https://cultofted.substack.com/
     - https://twitter.com/twdargis      # change to your twitter homepage
     - https://github.com/twdargis       # change to your github homepage
     # Uncomment below to add more social links
@@ -57,7 +57,7 @@ google_site_verification:               # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: 'G-86CQQ73TGE'    # fill in your Google Analytics ID
+  id:                 # fill in your Google Analytics ID TED: Added GA code to header template!
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine

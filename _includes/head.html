@@ -89,6 +89,16 @@
     {% endif %}
   {% endif %}
 
+  <!-- Google tag (gtag.js) Manually Added TWD -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-246003756-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-246003756-1');
+  </script>
+
   <!-- Bootstrap -->
   <link rel="stylesheet" href="{{ site.data.assets[origin].bootstrap.css | relative_url}}">
 
