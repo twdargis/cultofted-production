@@ -36,9 +36,13 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
   color: #b366ff !important;
 }
 
-.cot-form {
-  border: 5px solid red;
-  padding: 1em;
-  margin: 1em;
+.cot-form {}
+
+.cot-form-field {
+  margin-bottom: 1em;
+}
+
+.cot-form-textarea {
+  height: 5em;
 }
 /* END CUSTOM CSS */
