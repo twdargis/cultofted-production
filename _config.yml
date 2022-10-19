@@ -56,7 +56,7 @@ google_site_verification:               # fill in to your verification string
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
-google_analytics:
+google_analytics: 'G-86CQQ73TGE'
   id:                 # fill in your Google Analytics ID TED: Added GA code to header template!
   # Google Analytics pageviews report settings
   pv:
@@ -146,7 +146,7 @@ defaults:
       type: posts
     values:
       layout: post
-      comments: true    # Enable comments in posts.
+      comments: false   # Enable comments in posts.
       toc: true         # Display TOC column in posts.
       # DO NOT modify the following parameter unless you are confident enough
       # to update the code of all other post links in this project.
