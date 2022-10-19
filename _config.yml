@@ -56,8 +56,8 @@ google_site_verification:               # fill in to your verification string
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
-google_analytics: 'G-86CQQ73TGE'
-  id:                 # fill in your Google Analytics ID TED: Added GA code to header template!
+google_analytics: 
+  id:                 # TED: Added GA code to header template! fill in your Google Analytics ID 
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
