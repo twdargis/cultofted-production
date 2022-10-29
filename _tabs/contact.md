@@ -14,6 +14,6 @@ Phone <a href="tel:1317610183">(312) 761-0183</a><br>
 
 <hr>
 
-<iframe src="../php-contact/index.php" height="630" width="320" title="Contact Form"></iframe> 
+<iframe src="../php-contact/index.php" style="border:0px #ffffff none;" name="phpContact" title="Contact Form" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="660px" width="350px" allowfullscreen></iframe>
 
 <hr>
