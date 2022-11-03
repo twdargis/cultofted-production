@@ -5,6 +5,3 @@ categories: [psychology]
 tags: [depression,mental health,medication]
 ---
 
-## DSL stub file.
-
-Test test test.
