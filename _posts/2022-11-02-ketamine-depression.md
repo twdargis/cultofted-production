@@ -6,4 +6,3 @@ tags: [depression,mental health,medication]
 ---
 
 ## My experience with intravenous ketamine infusion therapy for treatment resistant depression.
-
